@@ -1,4 +1,4 @@
-# 🐾 Puppy Dash — Open Trail
+# 🐾 Puppy Dash — Trail Check
 
 **A playful 3D puppy-running adventure, right in your browser.** Pick a trail, dodge obstacles, collect treasures, unlock rewards, and meet a whole pack of puppy friends.
 
@@ -7,6 +7,10 @@
 No installation or account required to start. **A modern browser with WebGL 2 and hardware acceleration is required.**
 
 [![Puppy Dash gameplay — Mochi runs along a sunny bridge in Coral Cove, with collectibles and on-screen controls](docs/images/open-trail-desktop.jpg)](https://jonbiro.github.io/puppy-dash-play/)
+
+## Latest update
+
+Trail Check 6.4.15 preserves Surprise-me Rally preferences through replay and validates saved camps before resuming them. The source update also improves optional backup/account reliability; those services remain undeployed on this public site. Existing browser saves stay compatible.
 
 ## What you can do
 
