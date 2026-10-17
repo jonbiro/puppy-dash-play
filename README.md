@@ -10,7 +10,7 @@ No installation or account required to start. **A modern browser with WebGL 2 an
 
 ## Latest update
 
-Trail Check 6.4.15 preserves Surprise-me Rally preferences through replay and validates saved camps before resuming them. The source update also improves optional backup/account reliability; those services remain undeployed on this public site. Existing browser saves stay compatible.
+Trail Check 6.4.15 keeps the next-trail preview clear of the live collection goal, preserves Surprise-me Rally preferences through replay and validates saved camps before resuming them. The source update also improves optional backup/account reliability; those services remain undeployed on this public site. Existing browser saves stay compatible.
 
 ## What you can do
 
